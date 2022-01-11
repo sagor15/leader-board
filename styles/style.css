@@ -177,6 +177,9 @@ article {
   .course {
     margin-top: 58px;
     margin-bottom: 15px;
+    box-shadow: 10px 10px 25px gray;
+    padding: 25px 15px;
+    box-shadow: -121px 36px 9px grey;
   }
   hr {
     margin-top: 77px;
